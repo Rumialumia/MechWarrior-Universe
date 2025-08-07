@@ -1,0 +1,21 @@
+{
+	"displayName": "Mechwarrior_Universe",
+	"version": "1.0",
+	"buildNumber": 0,
+	"description": "Lore and Immersion focused total conversion",
+	"author": "Rumia",
+	"authorURL": "",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/Modes/TitleScreenMode.uasset",
+		"/Game/UI/FrontEnd/TitleScreen/MainMenuBackgroundVIdeo.uasset",
+		"/Game/UI/FrontEnd/TitleScreen/MainMenuScreen.uasset",
+		"/Game/UI/FrontEnd/TitleScreen/Lighting_Titlescreen.umap",
+		"/Game/UI/FrontEnd/TitleScreen/TitleScreen_Background.umap",
+		"/Game/UI/FrontEnd/TitleScreen/TitleScreen_Video.umap"
+	],
+	"steamPublishedFileId": 0,
+	"steamLastSubmittedBuildNumber": 0,
+	"steamModVisibility": "Private"
+}
